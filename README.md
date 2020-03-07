@@ -1,6 +1,6 @@
  # OBL - Ort Braude Library
  
-<p align="center"><img src="https://github.com/ziper02/Ort-Braude-Library/blob/master/Projecton/icons/OBL_logo2.gif" height="400" width="300/></p>
+<p align="center"><img src="https://github.com/ziper02/Ort-Braude-Library/blob/master/Projecton/icons/OBL_logo2.gif" height="400" width="300" /></p>
   
 ## Software description  
 This Software developed by group of 5 people for course in software engineering Degree.
